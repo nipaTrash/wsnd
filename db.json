@@ -1,0 +1,21 @@
+{
+  "chats":[
+      {
+          "id":"3ada50e63f9d31ae8116d87d84cc3aa3",
+          "unread":5,
+          "flag":false,
+          "folder":"folderdos",
+          "delete":false,
+          "lastMsgUtc":1480420596
+      },
+      {
+          "id":"a1caac3b157f0977bc168919276819fd",
+          "unread":3,
+          "flag":false,
+          "folder":"folderuno",
+          "delete":false,
+          "lastMsgUtc":1480425596
+      }
+  ]
+
+}
